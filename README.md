@@ -1,8 +1,6 @@
 # FUTURE_PE_03
 Prompt Engineering Internship Tasks - Future Interns
 
-# FUTURE_PE_03 — Chatbot Persona Creator
-
 This repository showcases 3 AI-powered chatbot personas built for Task 3 of the Prompt Engineering Internship at Future Interns.
 
 ## 🌟 Chatbot Personas
